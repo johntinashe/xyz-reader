@@ -3,3 +3,9 @@
 This repository stores the starter code for the XYZ Reader project in Udacity's Android Nanodegree.
 
 ## Final UI 
+
+<img src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/Screenshot_20180728-161853_Popular%20Movies.jpg?alt=media&token=40647c43-1af6-4518-913e-ce23e0db0dbe"
+ align="center" width="400" height="800"/>
+   
+<img src="https://firebasestorage.googleapis.com/v0/b/journalapp-985e6.appspot.com/o/Screenshot_20180728-161926_Popular%20Movies.jpg?alt=media&token=51733bb0-d787-48e0-b08c-b5a8d17cd22c"
+width="800" height="500"/>
